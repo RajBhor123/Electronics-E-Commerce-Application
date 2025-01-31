@@ -44,5 +44,5 @@ The **Electronics E-Commerce Application** is a console-based Java project desig
 This project provides a hands-on approach to implementing object-oriented programming principles in Java. It demonstrates an end-to-end e-commerce system, making it an excellent showcase for Java programming skills and software development expertise.
 
 ---
-🚀 Developed with ❤️ by [Your Name]
+🚀 Developed with ❤️ by [Raj Bhor]
 
