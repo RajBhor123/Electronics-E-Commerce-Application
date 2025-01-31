@@ -38,7 +38,7 @@ The **Electronics E-Commerce Application** is a console-based Java project desig
 
 ## 📸 Screenshot
 ### 🎥 Console Output
-![Electronics E-Commerce Application](ElectronicOutput.png)
+![Electronics E-Commerce Application](Project/ElectronicOutput.png)
 
 ## 🎯 Summary
 This project provides a hands-on approach to implementing object-oriented programming principles in Java. It demonstrates an end-to-end e-commerce system, making it an excellent showcase for Java programming skills and software development expertise.
